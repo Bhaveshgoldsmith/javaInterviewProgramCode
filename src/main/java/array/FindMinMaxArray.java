@@ -1,4 +1,4 @@
-package JavaPrograms;
+package array;
 public class FindMinMaxArray {
 	public static void main(String[] args) {
 		int num[] = { 13, 6, 15, 4, 18, 9 };

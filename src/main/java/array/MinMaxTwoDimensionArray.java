@@ -1,4 +1,4 @@
-package JavaPrograms;
+package array;
 public class MinMaxTwoDimensionArray {
 //	
 //	11 12 13
