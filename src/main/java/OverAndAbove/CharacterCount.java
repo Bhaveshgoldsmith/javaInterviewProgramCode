@@ -1,10 +1,13 @@
-package StringPrograms;
+package OverAndAbove;
+
 import java.util.HashMap;
 import java.util.Map;
+
 public class CharacterCount {
 	public static void main(String[] args) {
 		countOccurence("test");
 	}
+
 	public static void countOccurence(String str) {
 		Map<Character, Integer> charMap = new HashMap<Character, Integer>();
 		char ch[] = str.toCharArray();
