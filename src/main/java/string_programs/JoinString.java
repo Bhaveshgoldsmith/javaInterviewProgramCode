@@ -1,4 +1,4 @@
-package StringPrograms;
+package string_programs;
 public class JoinString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

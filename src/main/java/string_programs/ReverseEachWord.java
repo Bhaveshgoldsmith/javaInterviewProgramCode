@@ -1,4 +1,4 @@
-package StringPrograms;
+package string_programs;
 public class ReverseEachWord {
 	public static void main(String[] args) {
 		reverseWord("My Name is Bhavesh");

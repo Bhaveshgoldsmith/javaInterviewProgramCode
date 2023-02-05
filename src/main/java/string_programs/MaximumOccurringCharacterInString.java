@@ -1,4 +1,4 @@
-package StringPrograms;
+package string_programs;
 import java.util.HashMap;
 import java.util.Map;
 public class MaximumOccurringCharacterInString {
